@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Passport Application",
+    "department": "Immigration",
+    "duration": 30,
+    "requiredDocs": [
+      "NIC Copy",
+      "Birth Certificate",
+      "Photos"
+    ],
+    "description": "New passport application service"
+  },
+  {
+    "id": 2,
+    "name": "Driving License",
+    "department": "Motor Traffic",
+    "duration": 45,
+    "requiredDocs": [
+      "NIC Copy",
+      "Medical Certificate",
+      "Photos"
+    ],
+    "description": "Driving license application"
+  },
+  {
+    "id": 3,
+    "name": "Birth Certificate",
+    "department": "Registrar General",
+    "duration": 20,
+    "requiredDocs": [
+      "Hospital Discharge",
+      "Parent NICs"
+    ],
+    "description": "Birth certificate issuance"
+  }
+]

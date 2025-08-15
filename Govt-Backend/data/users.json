@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@email.com",
+    "nic": "123456789V",
+    "role": "citizen"
+  },
+  {
+    "id": 2,
+    "name": "Officer Smith",
+    "email": "officer@gov.lk",
+    "role": "officer",
+    "department": "Immigration"
+  }
+]
